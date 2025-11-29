@@ -1,3 +1,5 @@
+# This is a fork and serves as a test to see if it works with the new WeConnect Python.
+
 # Because I no longer have access to a Volkswagen ID vehicle, development on this integration has been discontinued.
 
 
