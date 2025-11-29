@@ -1,6 +1,6 @@
 {
-  "domain": "volkswagen_we_connect_id",
-  "name": "Volkswagen We Connect ID",
+  "domain": "volkswagen_we_connect_id-update",
+  "name": "Volkswagen We Connect ID-Update",
   "config_flow": true,
   "documentation": "https://github.com/BennyOtt/volkswagen_we_connect_id#readme",
   "requirements": ["weconnect==0.60.10", "ascii_magic>=2.0.0"],
